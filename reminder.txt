@@ -1,0 +1,2 @@
+//for running android
+flutter emulator --launch Pixel_2_API_28
